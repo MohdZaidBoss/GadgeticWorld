@@ -2,9 +2,11 @@
 @import 'footer.css';
 
 .notFoundimg {
-    display: inline-flex;
-    margin-left: 290px;
-    height: 500px;
+    display:block;
+    margin: 60px auto;
+}
+.notFoundimg-img {
+    text-align: center;
 }
 
 .hero-section{
